@@ -5,6 +5,11 @@
 
   # 💻 Aprendendo com os comandos git :
   <br>
-- `Git config`:
+  
+- `Git Status:`  Mostra os arquivos que foram modificados no repositorio
+
+- `Git Init:`  Inicializa um novo repositório do Git
+
+- `Git Init:`  Inicializa um novo repositório do Git
 
   
